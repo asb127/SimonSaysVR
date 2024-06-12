@@ -7,7 +7,7 @@
 - Use the left stick to rotate to the left/right
 - Use the left/right triggers to interact with the left/right hand
 
-### PC
+### PC (Editor)
 - Use the W/S keys to move forward/backward
 - Use the A/D keys to move left/right
 - Use the left/right arrow keys to rotate to the left/right
@@ -23,3 +23,5 @@
     - https://freesound.org/people/gneube/packs/20735/
 - Button sounds open (kickhat, CC0 1.0 UNIVERSAL)
     - https://freesound.org/people/kickhat/packs/16296/
+- Shepard Note Samples (vroomvro0om, CC BY 4.0 / ATTRIBUTION 4.0 INTERNATIONAL)
+    - https://freesound.org/people/vroomvro0om/packs/21143/
