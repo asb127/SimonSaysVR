@@ -37,6 +37,10 @@ Try to last as long as possible!
     - https://freesound.org/people/kickhat/packs/16296/
 - Shepard Note Samples (vroomvro0om, CC BY 4.0 / ATTRIBUTION 4.0 INTERNATIONAL)
     - https://freesound.org/people/vroomvro0om/packs/21143/
+- Shepard Note Samples (vroomvro0om, CC BY 4.0 / ATTRIBUTION 4.0 INTERNATIONAL)
+    - https://freesound.org/people/vroomvro0om/packs/21143/
+- Game-Over-Voice-2b (SoundEffectsPodcast_com, CC BY 3.0 / ATTRIBUTION 3.0 UNPORTED)
+    - https://freesound.org/people/SoundEffectsPodcast_com/sounds/256091/
 
 ### Noun Project
 - Click (White Snow, CC BY 3.0 / ATTRIBUTION 3.0 UNPORTED)
