@@ -1,7 +1,16 @@
 # SimonSaysVR
- Simon Says game made in Unreal Engine 4 for VR
+Simon Says game made in Unreal Engine 4 for VR
 
 ## How-to-play
+Interact with the white button to start the game.
+
+In the game, the player has to match a colour sequence. The colour buttons must be pressed in the correct order the right amount of times to complete the round.
+
+For every round completed, the game adds a new colour to the sequence. The whole sequence will be repeated then to the player.
+
+Try to last as long as possible! 
+
+## Controls
 ### VR
 - Use the right stick to move around
 - Use the left stick to rotate to the left/right
@@ -10,8 +19,11 @@
 ### PC (Editor)
 - Use the W/S keys to move forward/backward
 - Use the A/D keys to move left/right
+- Use the Q/E keys to move down/up
 - Use the left/right arrow keys to rotate to the left/right
 - Use the Backspace key to interact
+
+(Note: when playing in the editor, to interact with the buttons the camera must be colliding with them)
 
 ## Assets
 ### Unreal Engine Marketplace
