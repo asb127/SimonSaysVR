@@ -4,9 +4,9 @@ Simon Says game made in Unreal Engine 4 for VR
 ## How-to-play
 Interact with the white button to start the game.
 
-In the game, the player has to match a colour sequence. The colour buttons must be pressed in the correct order the right amount of times to complete the round.
+In the game, the player has to match a color sequence. The color buttons must be pressed in the correct order the right amount of times to complete the round.
 
-For every round completed, the game adds a new colour to the sequence. The whole sequence will be repeated then to the player.
+For every round completed, the game adds a new color to the sequence. The whole sequence will be repeated then to the player.
 
 Try to last as long as possible! 
 
