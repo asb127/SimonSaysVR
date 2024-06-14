@@ -25,7 +25,7 @@ Try to last as long as possible!
 
 (Note: when playing in the editor, to interact with the buttons the camera must be colliding with them)
 
-## Assets
+## External assets
 ### Unreal Engine Marketplace
 - Spaceship Interior Environment Set (Denys Rutkovskyi)
     - https://www.unrealengine.com/marketplace/product/spaceship-interior-environment-set
@@ -35,8 +35,6 @@ Try to last as long as possible!
     - https://freesound.org/people/gneube/packs/20735/
 - Button sounds open (kickhat, CC0 1.0 UNIVERSAL)
     - https://freesound.org/people/kickhat/packs/16296/
-- Shepard Note Samples (vroomvro0om, CC BY 4.0 / ATTRIBUTION 4.0 INTERNATIONAL)
-    - https://freesound.org/people/vroomvro0om/packs/21143/
 - Shepard Note Samples (vroomvro0om, CC BY 4.0 / ATTRIBUTION 4.0 INTERNATIONAL)
     - https://freesound.org/people/vroomvro0om/packs/21143/
 - Game-Over-Voice-2b (SoundEffectsPodcast_com, CC BY 3.0 / ATTRIBUTION 3.0 UNPORTED)
